@@ -1,15 +1,15 @@
-import HeaderSection from "./component/HeaderSection/HeaderSection";
-import TermsConditionPage from "./component/ TermsConditionPage/TermsConditionPage";
+import HeaderSection from "../Component/HeaderSection/HeaderSection";
+import TermsCondition from "../Component/TermsCondition/TermsCondition";
 import FooterSection from "../Component/FooterSection/FooterSection";
 
-function App() {
+function TermsConditionPage() {
     return(
         <div>
             <HeaderSection />
-            <TermsConditionPage />
+            <TermsCondition />
             <FooterSection />
         </div>
     )
 }
 
-export default App;
+export default TermsConditionPage;

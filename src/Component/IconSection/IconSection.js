@@ -1,9 +1,9 @@
-import fedex from '../images/airbnb.png';
-import fedex from '../images/hubspot.png';
-import fedex from '../images/google.png';
-import fedex from '../images/microsoft.png';
-import fedex from '../images/walmart.png';
-import fedex from '../images/fedex.png';
+import airbnb from './airbnb.png';
+import hubspot from './hubspot.png';
+import google from './google.png';
+import microsoft from './microsoft.png';
+import walmart from './walmart.png';
+import fedex from './fedex.png';
 import "./IconSection.css";
 
 

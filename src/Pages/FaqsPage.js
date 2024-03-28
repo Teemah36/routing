@@ -1,15 +1,15 @@
-import HeaderSection from "./component/HeaderSection/HeaderSection";
-import FaqSection from "./component/FaqSection/FaqSection";
+import HeaderSection from "../Component/HeaderSection/HeaderSection";
+import FaqSection from "../Component/FaqSection/FaqSection";
 import FooterSection from "../Component/FooterSection/FooterSection";
 
-function App(){
+function FaqsPage(){
     return(
         <div>
-            <HeaderSection />
-            <FaqSection />
-            <FooterSection />
+            <HeaderSection/>
+            <FaqSection/>
+            <FooterSection/>
         </div>
     )
 }
 
-export default App;
+export default FaqsPage;

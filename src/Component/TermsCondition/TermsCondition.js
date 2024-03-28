@@ -19,7 +19,7 @@ function TermsCondition() {
 
             <p>Only real persons at or above the age of 18 may register for an account and use the website. Registering for an account on the website creates no commitment or obligation on the registered user to make any investment or seek any investment. All information you provide to the website must be truthful, accurate and complete in all material respects. Our registration process may use third-party validation technology, including those provided by third-party social media sites, to attempt to confirm your qualification to use the website.</p>
 
-            <P>CARDONE CAPITAL may reject any application to register an individual or an organization or entity for failure to achieve validation through available methods or otherwise meet CARDONE CAPITAL’s registration requirements.</P>
+            <p>CARDONE CAPITAL may reject any application to register an individual or an organization or entity for failure to achieve validation through available methods or otherwise meet CARDONE CAPITAL’s registration requirements.</p>
 
             <p>Your registration and the use of any third-party site is subject to the terms and conditions and policies of such sites and CARDONE CAPITAL is not responsible or liable for any harm resulting from the use or misuse of those sites, including when such harm could or does affect your account on this website or use of the website.</p> 
 

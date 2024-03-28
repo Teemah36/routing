@@ -1,13 +1,13 @@
-import HeaderSection from "./component/HeaderSection/HeaderSection";
-import HeroSection from "./component/HeroSection/HeroSection";
-import AboutSection from "./component/AboutSection/AboutSection";
-import IconSection from "./component/IconSection/IconSection";
-import WhySection from "./component/WhySection/WhySection";
-import FormSection from "./component/FormSection/FormSection";
-import FooterSection from "./component/FooterSection/FooterSection";
+import HeaderSection from "../Component/HeaderSection/HeaderSection";
+import HeroSection from "../Component/HeroSection/HeroSection";
+import AboutSection from "../Component/AboutSection/AboutSection";
+import IconSection from "../Component/IconSection/IconSection";
+import WhySection from "../Component/WhySection/WhySection";
+import FormSection from "../Component/FormSection/FormSection";
+import FooterSection from "../Component/FooterSection/FooterSection";
 
 
-function App() {
+function HomePage() {
     return(
         <div>
             <HeaderSection />
@@ -21,4 +21,4 @@ function App() {
     )
 }
 
-export default App;
+export default HomePage;
